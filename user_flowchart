@@ -1,0 +1,134 @@
+# buyer_journey_zone
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Buyer Journey Flow – NoBroker</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      background: #f9f9f9;
+      padding: 40px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h1, h2 {
+      color: #003366;
+    }
+    h1 {
+      text-align: center;
+    }
+    .section {
+      background: #fff;
+      border-left: 6px solid #0077cc;
+      padding: 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    ul {
+      margin-top: 10px;
+    }
+    .highlight {
+      background: #e6f2ff;
+      padding: 10px;
+      border-left: 4px solid #3399ff;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🏡 Buyer Journey Flow – NoBroker</h1>
+
+  <div class="section">
+    <h2>1. CX Comes to NoBroker</h2>
+    <p>Customer subscribes to the <strong>Buyer Plan</strong>.</p>
+  </div>
+
+  <div class="section">
+    <h2>2. An RM is Assigned</h2>
+    <p>Done via automated system or assigned via a dummy RM later reassigned by TL.</p>
+  </div>
+
+  <div class="section">
+    <h2>3. CX Fills Requirements in NB App</h2>
+    <p>If not filled, RM collects during the OB (Onboarding) call.</p>
+  </div>
+
+  <div class="section">
+    <h2>4. OB Call</h2>
+    <ul>
+      <li>RM builds rapport with CX</li>
+      <li>Notes all requirements (budget, BHK, etc.)</li>
+      <li>Explains the call patch process</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>5. Finding a Lead</h2>
+    <p>Leads are sourced through:</p>
+    <ul>
+      <li>RM DB (active and matching leads)</li>
+      <li>Google search + manual input</li>
+      <li>Internal dashboard's Leads tab</li>
+      <li>Similar tenant-based references</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>6. ROC (Requirement Owner Confirmation)</h2>
+    <ul>
+      <li>Availability of property</li>
+      <li>Income compatibility, water, BHK, metro proximity</li>
+      <li>Khata, DDA approval, builder, amenities</li>
+    </ul>
+    <p>ROC is completed before sharing with the buyer.</p>
+  </div>
+
+  <div class="section">
+    <h2>7. Property Suggestions</h2>
+    <p>Properties are shortlisted based on location and fit, then shared with CX.</p>
+  </div>
+
+  <div class="section">
+    <h2>8. Lead Discussion</h2>
+    <p>RM discusses all key property highlights with the CX.</p>
+  </div>
+
+  <div class="section">
+    <h2>9. CX Shortlists Property</h2>
+    <p>Buyer either chooses from suggestions or self-shortlists.</p>
+  </div>
+
+  <div class="section">
+    <h2>10. RM Helps Schedule a Visit</h2>
+    <ul>
+      <li>Confirms date/time with seller</li>
+      <li>Shares who will show the property</li>
+      <li>Details conveyed to CX</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>11. Visit Stage</h2>
+    <div class="highlight">
+      <strong>Scenario A - Visited:</strong>
+      <ul>
+        <li>Feedback call taken</li>
+        <li>If CX likes property: RM negotiates, finalises, pitches VAS, and closes deal</li>
+        <li>If not liked: RM reschedules or suggests new leads</li>
+      </ul>
+    </div>
+    <div class="highlight">
+      <strong>Scenario B - Not Visited:</strong>
+      <p>RM attempts to reschedule visit</p>
+    </div>
+  </div>
+
+  <div class="section">
+    <h2>12. BMTE (Buyer Makes The Effort)</h2>
+    <p>Customer independently contacts seller and finalises deal without RM’s help.</p>
+  </div>
+
+</body>
+</html>
